@@ -7,10 +7,10 @@ This is a project created by the customer interface manager to help the team und
 3. Find the issue to fix your name
 4. Leave a comment "I'll work on this issue"
 5. Go back to the repository and fork it, and select your account
-6. Go to your own github page, open the forked repository and click on Clone or Download, select clone with HTTPS and cope the code
+6. Go to your own github page, open the forked repository and click on Clone or Download, select clone with HTTPS and copy the code
 7. Create a new folder on your desktop named "open-source-contributions"
 8. Open the terminal or CMD and type `cd desktop/open-source-contributions`
-9. Then Type `git clone {The Link You Copied from CLone HTTPS}`
+9. Then Type `git clone {The Link You Copied}`
 10. Now type `cd ISDL-Practice-Project`
 11. Type git branch, you should see *master* because that is the branch you are working on
 12. Type `git checkout -b {Issue Number You're Working On}`

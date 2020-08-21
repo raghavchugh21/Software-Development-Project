@@ -13,7 +13,7 @@ This is a project created by the customer interface manager to help the team und
 9. Then Type `git clone {The Link You Copied}`
 10. Now type `cd ISDL-Practice-Project`
 11. Type git branch, you should see *master* because that is the branch you are working on
-12. Type `git checkout -b {Issue Number You're Working On}` - You can find the issue number next to '#' in the issues tab on the main repo, they will be in the range 1-8
+12. Type `git checkout -b {Issue Number You're Working On}` - You can find the issue number next to '#' in your issue in the issues tab on the main repo; they will be in the range 1-8
 13. Type `git branch` and you should see *{Issue Number} in the green color, that means this is a new branch you created to fix the issue
 14. Type `code .` to open in vscode, change your roll number and save the file
 15. Type `git diff` and you should see the changes you made to your roll number

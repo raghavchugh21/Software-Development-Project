@@ -4,7 +4,7 @@ This is a project created by the customer interface manager to help the team und
 
 1. Go to https://github.com/raghavchugh21/ISDL-Practice-Project
 2. Go to Issues
-3. Find the issue to fix your name
+3. Find the issue to fix your roll number
 4. Leave a comment "I'll work on this issue"
 5. Go back to the repository and fork it, and select your account
 6. Go to your own github page, open the forked repository and click on Clone or Download, select clone with HTTPS and copy the code

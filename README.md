@@ -1,4 +1,4 @@
-# Software-Development-Project
+# Software Development Project
 
 This project was created by me as the customer interface manager of ISDL07 Lab Group to help the team understand how github issues and pull requests work.
 Each member had to handle the issue created by me for their ID, by following the steps mentioned below :
